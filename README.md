@@ -31,8 +31,10 @@ Open via Bash/GitBash:
 `git clone {PUT_REPO_HERE}`
 2. Navigate into the `{NAME_OF_DIRECTORY}` directory in Visual Studio Code or preferred text editor
 `code .`
-3. Open index.html in Chrome or preferred browser:
-`open index.html`
+3. Get the necessary packages `npm install`.
+4. Compile the code `npm run build`.
+5. Open index.html in Chrome or preferred browser:
+`open dit/index.html`
 
 #### To see my live website go to {GH_PAGES_LINK_HERE}!
 
