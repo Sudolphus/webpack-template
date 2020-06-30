@@ -34,7 +34,7 @@ Open via Bash/GitBash:
 3. Get the necessary packages `npm install`.
 4. Compile the code `npm run build`.
 5. Open index.html in Chrome or preferred browser:
-`open dit/index.html`
+`open dist/index.html`
 
 #### To see my live website go to {GH_PAGES_LINK_HERE}!
 
