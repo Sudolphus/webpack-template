@@ -11,9 +11,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 ## Specifications
 
 | Spec | Input | Output |
-| :-------------     | :------------- | :------------- |
-| **Homepage** | User accesses localhost:5004 | Homepage with user input form |
-| **Program Gathers User Input** | User input: "10" | Output: "10" |
+| :--- | :---: | ---: |
 
 
 ## Setup/Installation Requirements
@@ -36,7 +34,7 @@ Open via Bash/GitBash:
 5. Open index.html in Chrome or preferred browser:
 `open dist/index.html`
 
-#### To see my live website go to {GH_PAGES_LINK_HERE}!
+#### To see my live website go to [GH_PAGES_LINK_HERE](https://sudolphus.github.io/Portfolio/)!
 
 
 ## Known Bugs
@@ -53,25 +51,26 @@ _Please reach out through my GitHub account._
 * _CSS (including Bootstrap)_
 * _JavaScript (including jQuery)_
 * _VSCode_
+* _Node.js (including webpack)_
 
 ### License
 
 Copyright (c) 2020 **_Micheal Hansen_**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
+*Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+furnished to do so, subject to the following conditions:*
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+*The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.*
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+*THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.*
